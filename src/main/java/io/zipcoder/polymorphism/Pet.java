@@ -6,13 +6,9 @@ public class Pet {
     public Pet(String name) {
         this.name = name;
     }
-
-    public Pet() {
-    }
     public String speak() {
         return null;
     }
-
     public void setName(String name) {
         this.name = name;
     }
